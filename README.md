@@ -8,7 +8,7 @@ Known languages:
 + Python
 + JavaScript
 + React
-+ HTML and CSS
++ HTML and CSS  
 Other Tools:
 + Docker
 + Jira
