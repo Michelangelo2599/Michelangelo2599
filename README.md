@@ -34,6 +34,6 @@ A small experience created as an academic project, to explore Unreal Engine and 
 Here the player will explore a snowy region to uncover its mysteries.
 
 # Contacts
-Linkedin: [Michelangelo Ottaviani](www.linkedin.com/in/michelangelo-ottaviani-1121601b5)  
+Linkedin: [Michelangelo Ottaviani](https://www.linkedin.com/in/michelangelo-ottaviani-1121601b5)  
 Email: ottavianimichelangelo@gmail.com  
 Phone Number: +39 366 4434407
