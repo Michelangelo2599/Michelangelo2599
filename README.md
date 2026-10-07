@@ -2,13 +2,14 @@ I'm Michelangelo, a newly enstablished Software Developer with an educational pr
 
 # ✨ About Me
 ## 💻 Programming Background
-I invested time both in high school and in the most recent years to study Software Development.
+I invested time both in high school and in the most recent years to study Software Development.  
 Known languages:
 + C++ and C#
 + Python
 + JavaScript
 + React
-+ HTML and CSS  
++ HTML and CSS
+
 Other Tools:
 + Docker
 + Jira
