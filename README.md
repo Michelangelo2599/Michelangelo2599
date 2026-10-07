@@ -38,7 +38,7 @@ The prototype of a game where the player will be able to experience its fourth a
 A small experience created as an academic project, to explore Unreal Engine and some of its functions.  
 Here the player will explore a snowy region to uncover its mysteries.
 
-# Contacts
+# 📡 Contact Me
 Linkedin: [Michelangelo Ottaviani](https://www.linkedin.com/in/michelangelo-ottaviani-1121601b5)  
 Email: ottavianimichelangelo@gmail.com  
 Phone Number: +39 366 4434407
