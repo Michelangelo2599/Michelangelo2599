@@ -25,15 +25,15 @@ After dedicating three years studying in Milan, I also developed skills in this 
 # ⚙️ My Projects
 Currently the projects I'm more proud of are games I partecipated in developing.
 
-## [Lotti](https://gabriele-serpella.itch.io/lotti)
+## 🎮 [Lotti](https://gabriele-serpella.itch.io/lotti)
 The prototype of a game where the player will be able to experience its fourth and final level. The player will impersonate the witch Lotti to explore this area of the world and solve various puzzles.  
 <img width="960" height="540" alt="ygNLzF" src="https://github.com/user-attachments/assets/ed404dba-1b79-4afb-862b-471598c23042" />
 
-## [Project Beyond](https://drive.google.com/file/d/1kmtsZN1aujcdFqp70bj-8HewhHSYc7mV/view?usp=sharing)
+## 👾 [Project Beyond](https://drive.google.com/file/d/1kmtsZN1aujcdFqp70bj-8HewhHSYc7mV/view?usp=sharing)
 A small experience created as an academic project, to explore Unreal Engine and some of its functions.  
 Here the player will explore a snowy region to uncover its mysteries.
 
 # Contacts
-Linkedin: [Michelangelo Ottaviani](www.linkedin.com/in/michelangelo-ottaviani-1121601b5)
-Email: ottavianimichelangelo@gmail.com
+Linkedin: [Michelangelo Ottaviani](www.linkedin.com/in/michelangelo-ottaviani-1121601b5)  
+Email: ottavianimichelangelo@gmail.com  
 Phone Number: +39 366 4434407
