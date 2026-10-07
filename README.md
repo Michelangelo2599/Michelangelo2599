@@ -1,8 +1,8 @@
-I'm Michelangelo, a newly enstablished Software Developer with an educational profile in Programming, but also Game and Narrative Design.
+I'm Michelangelo, a newly enstablished Software Developer with an educational profile in Programming, but also in Game and Narrative Design.
 
 # ✨ About Me
 ## 💻 Programming Background
-I invested time in both high school and in the most recent years to study Software Development.
+I invested time both in high school and in the most recent years to study Software Development.
 Known languages:
 + C++ and C#
 + Python
